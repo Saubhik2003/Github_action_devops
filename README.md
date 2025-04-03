@@ -1,2 +1,1 @@
-# Github_action_devops
-github_action_devops assignment
+# github_action_devops
