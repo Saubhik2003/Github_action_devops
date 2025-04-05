@@ -33,7 +33,7 @@ Ensure you have the following installed:
 
 🔹 1. Clone the repository
 
-git clone https://github.com/Uttkarshsh/Understanding-Test-Automation-with-GitHub-Actions
+git clone https://github.com/Saubhik2003/Understanding-Test-Automation-with-GitHub-Actions
 
 cd your-repo
 
