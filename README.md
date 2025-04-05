@@ -96,6 +96,9 @@ git add . git commit -m "Add test automation and GitHub Actions" git push origin
 🌟 Future Enhancements
 
 🔹 Implement database integration (PostgreSQL/MongoDB) 
+
 🔹 Add authentication and authorization mechanisms 
+
 🔹 Enhance logging and error handling 
+
 🔹 Perform performance and load testing using locust.io
